@@ -1,7 +1,11 @@
+import { AllRoutes } from "./routes/Allroute";
+
+
 function App() {
   return <>
   <div>
-    <h1>Hello  world</h1>
+    
+    <AllRoutes/>
   </div>
   </>;
 }
